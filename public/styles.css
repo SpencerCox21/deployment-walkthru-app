@@ -9,7 +9,7 @@ body {
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    background-image: linear-gradient(to right, red,orange,yellow,green,blue,indigo,violet);
+    background-color: aqua;
 }
 
 h1 {
